@@ -1,0 +1,60 @@
+.mainSidebarContainer{
+    flex:0.8;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 747px;
+    
+    
+}
+
+.ulContainer{
+    margin-top: 30px;
+}
+
+.liContainer{
+    display: flex;
+    align-items: center;
+    margin-top: -7px;
+}
+
+.menu{
+    display: flex;
+    color: rgb(66, 71, 75);
+    margin-left: -10px;
+}
+
+.sidebaricons{
+    width: 20px;
+    height: 20px;
+    margin-top: 18px;
+
+}
+
+.itemNames{
+    margin-left: 10px;
+    color: rgb(70,76,81);
+    text-decoration: none;
+    margin-top: 18px;
+}
+
+.scheduledContainer{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 10px;
+    padding:10px;
+    background-color: rgb(61,65,63,0.062);
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+.scheduleText{
+    font-size: 14px;
+    color: rgb(70,76,81);
+    margin-right: 80px;
+}
+
+.mainScheduleContainer{
+    margin-top: 80px;
+
+}

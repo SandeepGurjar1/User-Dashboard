@@ -1,0 +1,111 @@
+.mainHomeRightbar{
+    flex: 4;
+    background-color: rgba(224, 216, 216, 0.559);
+    height: 100%;
+}
+.ItemContainer{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+.ItemContainer1{
+    background-color: aliceblue;
+    width: 340px;
+    height: 20vh;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+.ItemContainer2{
+    background-color: aliceblue;
+    width: 340px;
+    height: 20vh;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+.ItemContainer3{
+    background-color: aliceblue;
+    width: 320px;
+    height: 20vh;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+.taskProgress{
+    text-align: start;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: rgb(76, 77, 78);
+    font-weight: 600;
+}
+.taskProgress2{
+    text-align: start;
+    margin-left: 10px;
+    margin-top: 7px;
+    color: rgb(76, 77, 78);
+    font-weight: 600;
+}
+.taskProgress3{
+    text-align: start;
+    margin-left: 10px;
+    margin-top: -20px;
+    color: rgb(76, 77, 78);
+    font-weight: 600;
+}
+.taskCounter{
+    text-align: start;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: -15px;
+    color:#14b652;
+
+}
+.currentmonth1{
+    text-align: start;
+    margin-left: 10px;
+    margin-top: -25px;
+
+
+}
+
+.barchartContainer{
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+.subItemContainer{
+  margin-top: 20px;
+}
+.itemContainer3{
+    background-color: aliceblue;
+    margin-left: 22px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.itemContainer4{
+    display: flex;
+    
+}
+.itemno1{
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+    
+}
+.itemno2{
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 699px;
+    border-radius: 10px;
+}
+.pc{
+    margin-bottom: -10px;
+}
